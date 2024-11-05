@@ -20,7 +20,7 @@
 ____________
 
 
-  ![Cert](./Index---Navigation/JPEG/cert.jpg)
+  ![Cert](../Index---Navigation/JPEG/cert.jpg)
 
 
 
