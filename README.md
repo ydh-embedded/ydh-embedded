@@ -1,9 +1,9 @@
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ydh_embedded) 
+
 - 👋 Hi, I’m Danny
 - 👀 I’m interested in c# Coding Skills 
 - 🌱 I’m currently learning UX and Backend variations
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ydh_embedded) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ydh-embedded&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -20,7 +20,8 @@
 ____________
 
 
-  ![Cert](./JPEG/cert.jpg)
+  ![Cert](./ydh-embedded/JPEG/cert.jpg)
+
 
 
 
