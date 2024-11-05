@@ -20,7 +20,7 @@
 ____________
 
 
-  ![Cert](./ydh-embedded/JPEG/cert.jpg)
+  ![Cert](./ydh-embedded/Index---Navigation/tree/main/JPEG/cert.jpg)
 
 
 
