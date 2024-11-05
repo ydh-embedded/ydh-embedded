@@ -16,13 +16,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-____________
-
-
-  ![Cert](../Index---Navigation/JPEG/cert.jpg)
-
-
-
-
-____________
