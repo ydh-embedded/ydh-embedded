@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Danny
 - 👀 I’m interested in c# Coding Skills 
 - 🌱 I’m currently learning UX and Backend variations
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ydh_embedded) 
@@ -18,3 +14,14 @@
 [![](https://visitcount.itsvg.in/api?id=ydh-embedded&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+____________
+
+
+  ![Cert](./JPEG/cert.jpg)
+
+
+
+____________
